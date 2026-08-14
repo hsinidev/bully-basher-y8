@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Bully Basher Y8
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Bully%20Basher%20Y8&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Bully Basher Y8 Header Banner" />
+
+  <h1>🚀 Bully Basher Y8</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/bully-basher-y8"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Bully Basher Y8** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,83 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Bully Basher Y8 - Play Online for Free
-
-## Overview
-Play Bully Basher Y8 online for free. Unblocked and available on all devices. Experience the best Bully Basher Y8 gameplay now!
-
-### Game Details & Guide
-Bully Basher Y8: A Comprehensive Guide
-
-
-
-Game Overview
-
-
-Bully Basher Y8, also known as Bully: Scholarship Edition, is a browser-based action-adventure game developed by Rockstar Vancouver. The game was released in 2006 for the PlayStation 2 and Xbox consoles.
-
-
-
-How to Play
-
-
-To start playing, navigate to the game's homepage and click on the "Play" button. Once the game begins, you will be presented with a variety of missions, each with its own objectives and challenges.
-
-
-
-The gameplay involves exploring different settings such as schools, parks, and buildings, while completing various tasks and activities. You can use your character's abilities to overcome obstacles and defeat enemies.
-
-
-
-Tips and Tricks for Success
-
-
-To succeed in the game, focus on developing your character's skills and attributes. This will allow you to take on more challenging missions and unlock new content.
-
-
-
-Here are some additional tips:
-• Make sure to collect all the necessary items and equipment before starting a mission.
-• Use your environment to your advantage by using obstacles such as stairs, ramps, and other objects to defeat enemies or access hard-to-reach areas.
-• Experiment with different characters to find one that suits your playstyle.
-• Pay attention to your health and stamina levels, as they will affect your performance in missions.
-
-
-Why You Should Play It
-
-
-Bully Basher Y8 offers a unique blend of action-adventure gameplay and educational value. By completing the game, you will be learning about teamwork, problem-solving, and critical thinking.
-
-
-
-The game also features a variety of characters with unique personalities and abilities, adding depth to the storyline and gameplay experience.
-
-
-
-Conclusion
-
-
-Bully Basher Y8 is an engaging and entertaining browser-based game that offers hours of fun and challenging gameplay. With its well-designed levels, interesting characters, and educational value, it's a great option for players of all ages.
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
